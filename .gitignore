@@ -1,0 +1,6 @@
+
+lzma-uncramfs
+lzma-uncramfs.o
+
+lzma-rg/SRC/7zip/Compress/LZMA_C/*.o
+lzma-rg/SRC/7zip/Compress/LZMA_C/decode

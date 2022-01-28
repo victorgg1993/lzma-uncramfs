@@ -26,6 +26,9 @@
 // Application libraries
 #include <zlib.h>
 
+// Ubuntu required
+#include <sys/sysmacros.h>
+
 // Needed by cramfs
 typedef unsigned char u8;
 typedef unsigned short u16;
